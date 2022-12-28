@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lato&display=swap');
+
 body {
   margin: 0;
   display: flex;
@@ -5,7 +7,7 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  font-family: sans-serif;
+  font-family: 'Inter', sans-serif;
   text-align: center;
   background-color: hsl(212, 45%, 89%);
 }
@@ -15,6 +17,7 @@ body {
   height: 600px;
   background-color: white;
   border-radius: 15px;
+  margin: auto;
 }
 
 img {
@@ -22,4 +25,22 @@ img {
   margin-top: 20px;
   height: 350px;
   border-radius: 10px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bol;
+  margin: 20px 30px;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 18px;
+  margin: 20px 30px;
+  font-weight: 300px;
+}
+
+.attribution {
+  text-align: center;
+  font-size: 18px;
 }
