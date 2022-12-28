@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+- [Images of the challenge completed below](#images-of-the-challenge-complete-below)
 - [The Challenge](#the-challenge)
 - [Where to find everything](##where-to-find-everything)
 - [Building your project](##building-your-project)
@@ -23,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Using HTML and CSS replicate the page to look like the ones provided in the design folder. It is also mobile responsive if the width is smaller.
 
-### Images of the challenged completed below
+### Images of the challenge complete below
 
 ![Desktop Preview](./design/desktop-preview.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
