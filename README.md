@@ -95,7 +95,7 @@ The more specific you are with your questions the more likely it is that another
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/FriedAxons/qr-code-component)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-ZfZgJtGS7R)
 - Live Site URL: [Add live site URL here](https://friedaxons.github.io/qr-code-component/)
 
 ### Built with
